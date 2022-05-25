@@ -3,17 +3,9 @@
       {
          "locale": "en",
          "displayName": "en",
-         "urlPrefix": "en",
+         "urlPrefix": "",
          "appLanguage": "en-US",
          "crystallizeCatalogueLanguage": "en",
-         "crystallizePriceVariant": "default"
-      },
-      {
-         "locale": " it",
-         "displayName": " it",
-         "urlPrefix": " it",
-         "appLanguage": "en-US",
-         "crystallizeCatalogueLanguage": " it",
          "crystallizePriceVariant": "default"
       }
    ]
